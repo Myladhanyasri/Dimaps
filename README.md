@@ -19,6 +19,7 @@ DiMaps is a web platform designed to enhance urban accessibility for people with
    ```bash
    git clone https://github.com/username/dimaps.git
 2. Navigate to the project folder:
+    ```bash
    cd dimaps
 3.Open index.html in your browser or set up a local server.
 
